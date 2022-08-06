@@ -1,4 +1,4 @@
-# Proiect 1 Number Guesser
+# Project 1 Number Guesser
 
 import random
 
